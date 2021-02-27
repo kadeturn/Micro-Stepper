@@ -16,6 +16,7 @@ All PCBs are created using KiCad Nightly builds.
 The first breakout board is based on [this](https://www.aliexpress.com/item/4000616045699.html?spm=a2g0s.12269583.0.0.51854815RwJf8O) stepper motor from Aliexpress.
 
 Both the Model A and Model B variants work with this breakout (the only difference being their linear guide mounting features).
+These motors can produce a force in the range of ~100-150gf, the main downside is that they have quite a bit of backlash.
 
 <p align="center">
   <img src="docs/pictures/micro_stepper_001.jpg" height="300" />
